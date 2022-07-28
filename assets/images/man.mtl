@@ -1,0 +1,18 @@
+newmtl Addons 3_0ca2770d-80f4-40cf-bec4-78fbae42e96c
+Kd 0.380 0.000 1.000
+d 1.000
+newmtl Addons 2_8d5957f3-0901-4f7b-9f5b-44468b7726c4
+Kd 0.192 0.816 0.667
+d 1.000
+newmtl Addons 1_23271d7a-fdc6-4ccc-a9e9-496d0f214892
+Kd 0.192 0.816 0.667
+d 1.000
+newmtl Visor_efa0d4da-9217-4da8-a377-13fba46d4d30
+Kd 0.000 0.000 0.000
+d 1.000
+newmtl Helmet_9f5e3552-7f1f-46df-abfc-e54c1f0b67c7
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl _switchable_9c600ac5-9bde-4cc5-9f0c-824a034939e8
+Kd 1.000 1.000 1.000
+d 1.000

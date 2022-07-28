@@ -1,0 +1,9 @@
+newmtl Ring_ec15ccaf-4168-4011-9d0d-268c73973641
+Kd 0.329 0.329 0.329
+d 1.000
+newmtl Moon_4c3fff16-2b93-42eb-a80b-d7f772340ecf
+Kd 0.980 0.424 0.502
+d 1.000
+newmtl _switchable 1_4f323dc7-7749-4beb-b150-1ff4c6e119e4
+Kd 0.380 0.000 1.000
+d 1.000
